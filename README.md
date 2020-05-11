@@ -3,3 +3,6 @@
 
 项目B站视频链接：https://www.bilibili.com/video/BV1EE411B7SU
 
+
+
+下载完需要下载依赖：npm install
